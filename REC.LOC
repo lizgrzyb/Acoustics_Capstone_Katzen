@@ -1,0 +1,12 @@
+;PROJECT=KatzenV1
+
+RECEIVERS
+ 1	width/2-5.42	stageLength+6.477		1.5 ;r2
+ 2	-width/2+3.492	length-2.7432		2.4 ;r3
+ 3	-width/2+.94	stageLength-1.32		stageHeight+1.397 ;r4
+
+
+ ;1  	width/2-3.5814	stageLength+3.5052	1.397 ;r1
+; 2	width/2-5.42	stageLength+6.477		1.5 ;r2
+ ;3	-width/2+3.492	length-2.7432		2.4 ;r3
+ ;4	-width/2+.94	stageLength-1.32		stageHeight+1.397 ;r4

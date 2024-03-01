@@ -1,0 +1,7 @@
+;PROJECT=KatzenV1
+
+;id --pos x y z-- directivity --aim point (no effect with omni) --
+
+SOURCEDEFS
+A0  2.32 9.049 0.9224  OMNI 1.0 3.7 1.7
+ Lp1m_a = <70 73 76 79 82 85>
